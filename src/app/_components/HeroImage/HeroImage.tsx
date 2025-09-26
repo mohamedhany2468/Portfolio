@@ -6,7 +6,7 @@ return (
     <motion.img
         src={img.src} // Use the 'src' property of the imported image
         alt="Mohamed Hany"
-        className="  rounded-full md:w-[300px] md:h-[300px] h-[120px] w-[120px] object-cover shadow-xl shadow-cyan-500/30"
+        className="  rounded-full md:w-[300px] md:h-[300px] h-[180px] w-[180px] object-cover shadow-xl shadow-cyan-500/30"
         initial={{ x: 200, opacity: 0 }}
         animate={{ x: 0, opacity: 1 }}
         transition={{ duration: 1 }}

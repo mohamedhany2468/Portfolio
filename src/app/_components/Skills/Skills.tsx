@@ -11,7 +11,7 @@ import HeroSkills from '../HeroSkillls/HeroSkills';
 function Skills() {
   return (
     <>
-    <section className=" bg-gradient-to-br from-[#0f2027] via-[#203a43] to-[#2c5364] text-white py-20 md:px-0 px-8">
+    <section className=" bg-gradient-to-br from-[#0f2027] via-[#203a43] to-[#2c5364] text-white py-20 md:px-0 px-8" id='skills'>
  <HeroSkills/>
 </section> 
     </>

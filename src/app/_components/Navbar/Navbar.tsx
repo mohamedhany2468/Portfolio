@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Navbar() {
   return (
-<div className="navbar fixed md:top-16 top-7 md:px-20 px-5 left-4 md:left-[50%] md:translate-[-50%]  md:w-[80%] w-[90%] mx-auto z-50 bg-[#0f2027]/80 backdrop-blur-md shadow-lg rounded-full">
+<div className="navbar fixed md:top-16 top-7 md:px-20 px-5 left-4 md:left-[50%] md:translate-[-50%]  md:w-[80%] w-[90%] mx-auto z-50 bg-[#0f2027]/80 backdrop-blur-md shadow-lg rounded-full ">
   <div className="navbar-start">
     <div className="dropdown">
       <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -22,7 +22,7 @@ export default function Navbar() {
     </div>
     <Link href="#home" className=" text-xl sm:text-2xl font-bold 
                        bg-clip-text text-transparent 
-                       bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600">Mohamed Hany</Link>
+                       bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600"> Portoflio</Link>
   </div>
   <div>
     

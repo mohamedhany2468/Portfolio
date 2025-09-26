@@ -39,7 +39,7 @@ export default function Hero() {
           initial={{ scale: 0.8, opacity: 0 }}
           animate={{ scale: 1, opacity: 1 }}
           transition={{ delay: 0.6, duration: 0.5 }}
-          className="bg-[#00f5d4] font-medium  py-3 rounded-2xl px-8" 
+          className="bg-[#30ffe3] font-medium  py-3 rounded-2xl px-8" 
         >
           Download CV
         </motion.a>

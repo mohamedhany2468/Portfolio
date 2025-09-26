@@ -21,7 +21,7 @@ import HeroContact from "./_components/HeroContact/HeroContact";
 export default function Home() {
   return (
 <>
-<section className="w-full md:w-[80%] mx-auto">
+<section className="w-full md:w-[80%] mx-auto ">
   <Navbar/>
   <div className="flex justify-center md:flex-row md:justify-between flex-col items-center h-screen">
     <div className="p-10 ">
@@ -29,7 +29,7 @@ export default function Home() {
 
     </div>
 
-    <div className="w-1/3">
+    <div className="md:w-1/3">
     <div className="rounded-full">
     <HeroImage/>
       </div>
