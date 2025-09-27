@@ -109,7 +109,7 @@ Skills
   <div className="p-6 rounded-lg bg-white/10 backdrop-blur-sm hover:scale-105 transition-transform">
         {/* <Image src="/icons/css.svg" alt="CSS" className="w-12 h-12 mx-auto mb-4" /> */}
         <RiTailwindCssFill size={30} className='mx-auto mb-2 text-cyan-500'/>
-        <p className="text-lg font-semibold">Tailwind css</p>
+        <p className="text-lg font-semibold">TailwindCss</p>
       </div>
         </motion.div>
         <motion.div

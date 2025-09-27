@@ -22,7 +22,7 @@ export default function Navbar() {
     </div>
     <Link href="#home" className=" text-xl sm:text-2xl font-bold 
                        bg-clip-text text-transparent 
-                       bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600"> Portoflio</Link>
+                       bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600"> Portfolio</Link>
   </div>
   <div>
     
