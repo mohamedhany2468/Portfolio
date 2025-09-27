@@ -21,10 +21,10 @@ import HeroContact from "./_components/HeroContact/HeroContact";
 export default function Home() {
   return (
 <>
-<section className="w-full md:w-[80%] mx-auto ">
+<section className=" md:w-[80%] w-screen mx-auto overflow-x-hidden  max-w-full ">
   <Navbar/>
   <div className="flex justify-center md:flex-row md:justify-between flex-col items-center h-screen">
-    <div className="p-10 ">
+    <div className="p-10  ">
   <Hero/>
 
     </div>
